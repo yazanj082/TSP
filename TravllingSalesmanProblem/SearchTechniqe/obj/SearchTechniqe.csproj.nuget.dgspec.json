@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\SearchTechniqe\\SearchTechniqe.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\yjarrar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yjarrar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\SearchTechniqe\\SearchTechniqe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\SearchTechniqe\\SearchTechniqe.csproj",
+        "projectName": "SearchTechniqe",
+        "projectPath": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\SearchTechniqe\\SearchTechniqe.csproj",
+        "packagesPath": "C:\\Users\\yjarrar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\SearchTechniqe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yjarrar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\yjarrar\\source\\repos\\TravllingSalesmanProblem\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

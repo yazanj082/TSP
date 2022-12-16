@@ -1,0 +1,15 @@
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\bin\Debug\net6.0\SearchTechniqe.deps.json
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\bin\Debug\net6.0\SearchTechniqe.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\bin\Debug\net6.0\ref\SearchTechniqe.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\bin\Debug\net6.0\SearchTechniqe.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.csproj.AssemblyReference.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.AssemblyInfoInputs.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.AssemblyInfo.cs
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.csproj.CoreCompileInputs.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\ref\SearchTechniqe.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\bin\Debug\net6.0\Common.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\bin\Debug\net6.0\Common.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\SearchTechniqe\obj\Debug\net6.0\SearchTechniqe.csproj.CopyComplete

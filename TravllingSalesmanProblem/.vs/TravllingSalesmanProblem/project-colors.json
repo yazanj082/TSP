@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "efaca1bb-12c9-4123-a507-8ff23faf6be6": {
+      "ProjectGuid": "efaca1bb-12c9-4123-a507-8ff23faf6be6",
+      "DisplayName": "TravllingSalesmanProblem",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5d369c1e-5bde-4c69-a043-df508acddd61": {
+      "ProjectGuid": "5d369c1e-5bde-4c69-a043-df508acddd61",
+      "DisplayName": "SearchTechniqe",
+      "ColorIndex": 1
+    },
+    "15118315-e0a7-43d9-953e-dead93077e3e": {
+      "ProjectGuid": "15118315-e0a7-43d9-953e-dead93077e3e",
+      "DisplayName": "DataRetrival",
+      "ColorIndex": 2
+    },
+    "c511acaf-f0a5-4031-94dc-a175849a5d68": {
+      "ProjectGuid": "c511acaf-f0a5-4031-94dc-a175849a5d68",
+      "DisplayName": "Common",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

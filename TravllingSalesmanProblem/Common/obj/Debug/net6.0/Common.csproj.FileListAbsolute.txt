@@ -1,0 +1,12 @@
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\bin\Debug\net6.0\Common.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\bin\Debug\net6.0\ref\Common.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache

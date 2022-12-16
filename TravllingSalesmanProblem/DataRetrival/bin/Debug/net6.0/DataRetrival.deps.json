@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataRetrival/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "runtime": {
+          "DataRetrival.dll": {}
+        }
+      },
+      "Common/1.0.0": {
+        "runtime": {
+          "Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataRetrival/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

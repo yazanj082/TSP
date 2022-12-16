@@ -1,0 +1,15 @@
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\bin\Debug\net6.0\DataRetrival.deps.json
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\bin\Debug\net6.0\DataRetrival.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\bin\Debug\net6.0\ref\DataRetrival.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\bin\Debug\net6.0\DataRetrival.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.csproj.AssemblyReference.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.AssemblyInfoInputs.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.AssemblyInfo.cs
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.csproj.CoreCompileInputs.cache
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\ref\DataRetrival.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\bin\Debug\net6.0\Common.dll
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\bin\Debug\net6.0\Common.pdb
+C:\Users\yjarrar\source\repos\TravllingSalesmanProblem\DataRetrival\obj\Debug\net6.0\DataRetrival.csproj.CopyComplete
